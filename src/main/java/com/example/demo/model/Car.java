@@ -14,7 +14,7 @@ public class Car {
 
 
 
-//kmklmlk
+	//kmklmlk
 	@Id //value will be unique
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	@Column(name="ID") //ID column will be in table
